@@ -7,7 +7,7 @@ The "Diabetes Prediction Bot" is a machine learning-based software application d
 ## Files
 
 - `trained_model.sav`: This file contains the trained machine learning model for diabetes prediction.
-- `Spyder multiple disease prediction(combo of heart & diabetes prediction bot).py`: This Python script can be used for deployment in the Spyder IDE.
+- `Diabetes-Prediction-bot deployment in Spyder.py`: This Python script is used for deploying the Diabetes Prediction Bot in the Spyder IDE and run it using 'Streamlit'.
 - `diabetes.csv`: This data file contains the dataset used to train and test the diabetes prediction model.
 - `diabetes_prediction.py`: This Python script is designed for use in Google Colab.
 
