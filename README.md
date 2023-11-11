@@ -21,5 +21,7 @@ The "Diabetes Prediction Bot" is a machine learning-based software application d
 ## Troubleshooting
 If you encounter any issues or have questions, please don't hesitate to reach out for support.
 
+Happy predicting! 🤖💙
+
 ## Author
 Sudhanshu Ambastha
