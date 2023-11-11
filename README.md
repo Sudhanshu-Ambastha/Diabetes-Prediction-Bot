@@ -17,3 +17,9 @@ The "Diabetes Prediction Bot" is a machine learning-based software application d
 2. Run the provided Python script (`Spyder multiple disease prediction(combo of heart & diabetes prediction bot).py`) in the Spyder IDE to deploy the bot.
 3. Provide the required medical and lifestyle data as input.
 4. The bot will analyze the data and provide a prediction regarding the likelihood of diabetes.
+
+## Troubleshooting
+If you encounter any issues or have questions, please don't hesitate to reach out for support.
+
+## Author
+Sudhanshu Ambastha
