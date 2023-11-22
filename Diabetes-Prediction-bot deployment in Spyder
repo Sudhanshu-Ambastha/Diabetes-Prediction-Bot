@@ -3,7 +3,7 @@ import pickle
 import streamlit as st
 
 # Load the diabetes model
-diabetes_model = pickle.load(open('C:/Users/sudha/Downloads/Disease prediction/Diabetes Prediction/Diabetes prediction bot trained_model.sav', 'rb'))
+diabetes_model = pickle.load(open('models/diabetes_model.sav', 'rb'))
 
 # Create a Streamlit app for Diabetes Prediction
 st.title('Diabetes Prediction using ML')
