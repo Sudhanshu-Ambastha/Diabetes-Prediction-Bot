@@ -1,5 +1,9 @@
 # Diabetes Prediction Bot
 
+![Web capture_16-12-2023_164650_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/4d603e2b-f064-4f1f-a37d-ff8198fcca16)
+![Web capture_16-12-2023_16479_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/db2312de-900d-41d5-b876-2df669a96e07)
+
+
 ## Overview
 
 The "Diabetes Prediction Bot" is a machine learning-based software application designed to predict whether an individual is likely to have diabetes. Users can provide relevant medical and lifestyle data, and the bot analyzes this information to provide a predictive outcome. This tool is useful for early detection and risk assessment of diabetes, allowing individuals to take preventive measures and seek medical advice when necessary.
