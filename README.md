@@ -1,8 +1,7 @@
 # Diabetes Prediction Bot
 
-![Web capture_16-12-2023_164650_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/4d603e2b-f064-4f1f-a37d-ff8198fcca16)
-![Web capture_16-12-2023_16479_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/db2312de-900d-41d5-b876-2df669a96e07)
-
+![Web capture_16-12-2023_164650_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/e7d04e9a-650a-43da-88e0-a2e3f1806cc1)
+![Web capture_16-12-2023_16479_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/ed9036b2-b99d-45db-923e-12d3e129447b)
 
 ## Overview
 
