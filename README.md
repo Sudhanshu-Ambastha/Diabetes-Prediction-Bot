@@ -27,4 +27,4 @@ If you encounter any issues or have questions, please don't hesitate to reach ou
 Happy predicting! 🤖💙
 
 ## Contributors
-@Sudhanshu-Ambastha, @Sarthak966829
+@Sudhanshu-Ambastha, Sarthak966829
