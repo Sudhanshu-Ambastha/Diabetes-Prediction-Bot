@@ -27,5 +27,7 @@ If you encounter any issues or have questions, please don't hesitate to reach ou
 Happy predicting! 🤖💙
 
 ## Contributors
-[Sudhanshu Ambastha](https://github.com/Sudhanshu-Ambastha), [Sarthak](https://github.com/Sarthak966829)
+<a href = "https://github.com/Sudhanshu-Ambastha/Diabetes-Prediction-Bot/contributors">
+  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Diabetes-Prediction-Bot"/>
+</a>
 
