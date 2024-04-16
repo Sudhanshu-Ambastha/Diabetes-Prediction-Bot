@@ -26,6 +26,20 @@ If you encounter any issues or have questions, please don't hesitate to reach ou
 
 Happy predicting! 🤖💙
 
+## Check out the other repositories related to this one
+<details>
+<summary>Related Repos which you should check out:-</summary>
+
+![Web capture_16-12-2023_162351_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/10dc50a7-ac7d-4972-bf52-736f448a6ca4)  
+- [Heart Disease Prediction Bot](https://github.com/Sudhanshu-Ambastha/Heart-Disease-Prediction-Bot)
+
+![Web capture_16-12-2023_16267_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/a7e19e30-aa09-4838-85c2-f1b69d2949cd)
+- [Multiple Disease Prediction Bot](https://github.com/Sudhanshu-Ambastha/Multiple-Disease-Prediction-Bot)
+  
+</details>
+- Check out the main repo as this project is part of it
+
+[Combined Disease Predictor](https://github.com/Sudhanshu-Ambastha/Combined-Disease-Prediction-Bot)
 ## Contributors
 <table>
     <tr>
