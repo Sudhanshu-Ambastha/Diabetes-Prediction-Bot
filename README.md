@@ -17,7 +17,7 @@ The "Diabetes Prediction Bot" is a machine learning-based software application d
 ## Data Sources
 
 - Diabetes dataset: Kaggle Diabetes Dataset
-  -[diabetes.csv](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
+  - [diabetes.csv](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
 
 ## Usage
 
