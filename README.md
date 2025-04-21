@@ -14,6 +14,11 @@ The "Diabetes Prediction Bot" is a machine learning-based software application d
 - `diabetes.csv`: This data file contains the dataset used to train and test the diabetes prediction model.
 - `diabetes_prediction.py`: This Python script is designed for use in Google Colab.
 
+## Data Sources
+
+- Diabetes dataset: Kaggle Diabetes Dataset
+  -[diabetes.csv](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
+
 ## Usage
 
 1. Ensure you have the necessary dependencies and libraries installed (e.g., NumPy, Pandas, Scikit-Learn).
